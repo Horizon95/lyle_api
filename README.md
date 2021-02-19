@@ -4,4 +4,4 @@ This is my attempt at the coding assessment. I was not able to fulfil all the re
 
 ## Usage
 
-Download these files locally adn then use Postman (https://www.postman.com/) as your HTTP client to make requests, or you can use cURL. Whatever is preferable.  
+Download these files locally and then use Postman (https://www.postman.com/) as your HTTP client to make requests, or you can use cURL. Whatever is preferable.  
